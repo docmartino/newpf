@@ -1,0 +1,12 @@
+input,
+textarea {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
